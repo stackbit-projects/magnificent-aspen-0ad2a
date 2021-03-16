@@ -6,8 +6,8 @@ sections:
     title: Welcome to YOUBORA
     image: images/5.jpg
     content: >
-      Get all the product info and answers you need about the YOUBORA Suite by
-      NPAW.  Explore topics, multimedia, and other self-learning content.
+      Get all the product info and answers you need on the YOUBORA Suite. 
+      Explore topics, multimedia, and other self-learning content.
     actions:
       - label: Get Started
         url: /docs
