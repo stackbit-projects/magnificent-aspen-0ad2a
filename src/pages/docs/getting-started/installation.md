@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: "Tips\_ for Business Users"
 weight: 1
 seo:
   title: Installation
