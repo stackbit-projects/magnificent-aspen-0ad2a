@@ -98,7 +98,7 @@ sections:
     title: Check out our self-learning topics
     subtitle: User-driven learning is key to connecting to our users...
     actions:
-      - label: Get Started
+      - label: Become an expert
         url: /docs/getting-started/installation
         style: primary
 seo:
