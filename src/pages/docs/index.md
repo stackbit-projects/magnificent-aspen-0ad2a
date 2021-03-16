@@ -21,15 +21,13 @@ seo:
       value: This is the documentation page
 template: docs
 ---
+The **YOUBORA Suite** by NPAW currently comprises four main video intelligence modules: **Analytics**, **CDN Balancer**, **Ads** and **Users**. Modules provide actionable real-time data across the entire platform to help our users make smart decisions for their business. Harness this data to build personalized, engaging experiences and contact with your customer base for maximized revenue.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
+                                    ![](/images/4%20module%20logo.png)
 
-***
+#####                                                                                       Detail of YOUBORA Suite landing page
 
-Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
 
-Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus. 
 
-[Morbi ac vulputate enim](https://stackbit.com)
+Use available modules to proactively manage users, build an appealing content offering and optimize its discovery. Plus, increase advertising efficiency and deal with operational and technical issues. Our 360º approach for efficient video service management means content providers can drive quality, users, ads, content, and infrastructure. Meanwhile, session monitoring allows content providers to correlate actionable insights across the entire video platform. So, take advantage of the YOUBORA Suite to set up a contextualized intelligent alert system, predict user behaviors, test decisions, automate campaigns, track progress and generate reports.
 
-Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.
