@@ -96,7 +96,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: Check out our self-learning topics
-    subtitle: This is an optional description for the call to action block.
+    subtitle: User-driven learning is key to connecting to our users...
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
