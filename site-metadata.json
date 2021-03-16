@@ -2,7 +2,6 @@
     "palette": "navy",
     "header": {
         "title": "Libris",
-        "logo_img": "images/successful-pine.png",
         "logo_img_alt": "Libris logo",
         "has_nav": true,
         "nav_links": [
