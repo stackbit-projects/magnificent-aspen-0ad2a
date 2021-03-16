@@ -5,9 +5,9 @@ sections:
     type: section_hero
     title: Welcome to YOUBORA
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Get all the product info and answers you need about the YOUBORA Suite by
+      NPAW.  Explore topics, multimedia, and other self-learning content.
     actions:
       - label: Get Started
         url: /docs
