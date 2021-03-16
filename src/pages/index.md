@@ -95,7 +95,7 @@ sections:
             style: link
   - section_id: cta
     type: section_cta
-    title: Check out our self-learning topics
+    title: Check out more self-learning topics
     subtitle: User-driven learning is key to connecting to our users...
     actions:
       - label: Become an expert
