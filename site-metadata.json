@@ -84,5 +84,6 @@
         ]
     },
     "domain": "https://magnificent-aspen-0ad2a.netlify.app",
-    "favicon": "images/unique-octopus.png"
+    "favicon": "images/unique-octopus.png",
+    "title": "NPAW"
 }
